@@ -1,12 +1,12 @@
 # one-day-DL
 
-## Hello, DeepLearning. From Pytorch to Deep Learning!
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/Pytorch%20to%20Deep%20Learning.ipynb))
-## Official quickStart codes for pytorch learner
+#### Step1. Hello, Deep Learning! Our fixer hero in the non-linear world.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/Pytorch%20to%20Deep%20Learning.ipynb)
+#### Step2. Official quickStart codes for pytorch learner
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)QuickStart.ipynb)
 
-## What is overfitting? Learn about regularizations
+#### Step3. What is overfitting? Learn about regularizations
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)regularization.ipynb)
 
-## Image classification with your CNNs with standard experimental tools
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)cifar classification.ipynb)
+#### Step4. Image classification using CNNs, along with a friendly guide to standard experimental methods
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)cifar%20classification.ipynb)
