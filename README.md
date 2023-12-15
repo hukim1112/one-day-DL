@@ -1,8 +1,7 @@
 # one-day-DL
 
 ## Hello, DeepLearning. From Pytorch to Deep Learning!
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/Pytorch to Deep Learning.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/Pytorch to Deep Learning.ipynb](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/Pytorch%20to%20Deep%20Learning.ipynb))
 ## Official quickStart codes for pytorch learner
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)QuickStart.ipynb)
 
