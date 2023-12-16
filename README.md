@@ -1,6 +1,6 @@
 # one-day-DL
 
-#### Step1. Hello, Deep Learning! Our fixer hero in the non-linear world.
+#### Step1. Hello, Deep Learning! Introduction to our best solver in the non-linear data world.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/Pytorch%20to%20Deep%20Learning.ipynb)
 #### Step2. Official quickStart codes for pytorch learner
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)QuickStart.ipynb)
