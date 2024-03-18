@@ -7,7 +7,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)QuickStart.ipynb)
 
 #### Step3. Deep regression on MPG dataset
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)MPG_regressio.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)MPG_regression.ipynb)
 
 #### Step4. What is overfitting? Learn about regularizations
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hukim1112/one-day-DL/blob/main/(pytorch)regularization.ipynb)
